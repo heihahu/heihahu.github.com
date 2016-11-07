@@ -1,3 +1,3 @@
 # heihahu.github.io
 
-it is my personal page.
+my personal page.
